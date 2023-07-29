@@ -1,0 +1,11 @@
+[
+    {"id":5,"nombre":"Pasta de Tahini","precio":1700,"img":"../img/tahini/Mestizo-frasco-tahini.webp","antiguedad":"nuevo"},
+    
+    {"id":1,"nombre":"Hummus Clásico","precio":900,"img":"../img/clasico/Mestizo-Frasco-Clasico.webp","antiguedad":"clasico"},
+    
+    {"id":4,"nombre":"Hummus Pistacho","precio":1200,"img":"../img/pistacho/Mestizo-frasco-pistacho.webp","antiguedad":"nuevo"},
+    
+    {"id":3,"nombre":"Hummus Ajo Negro","precio":900,"img":"../img/ajo-negro/MESTIZO HUMMUS ALTA-ajo negro.webp","antiguedad":"clasico"},
+    
+    {"id":2,"nombre":"Hummus Picante","precio":900,"img":"../img/picante/Mestizo-Frasco-AjiPicante.webp","antiguedad":"clasico"}
+]
