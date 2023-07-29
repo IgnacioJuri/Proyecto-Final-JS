@@ -1,5 +1,5 @@
 # Proyecto-Final-JS
-
+ 
 Les presento mi proyecto final para el curso de JavaScript de CoderHouse. Este proyecto es una tienda online o ecommerce creada para una empresa familiar. La idea de esta tienda es que sea funcional, y más adelante modificar su estilo al gusto del dueño de dicha empresa, por lo que el estilo y la estética no son los puntos fuertes de esta página. 
  
 En general se intentó crear una tienda que funcione en un solo html, en donde mediante diferentes botones se pueda visualizar los diferentes productos acomodados de diversas maneras o el carrito de compras, donde mediante botones se pueden agregar y quitar los productos. Algunas de las funciones de la página son: Agregar y quitar productos del carrito, visualizar la cantidad de productos que hay en el carrito en todo momento, cargar el carrito desde el localstorage para no perder los productos agregados al salir y entrar de la página, filtrar los diferentes productos según diferentes parámetros, mostrar alertas al agregar o quitar productos del carrito y finalmente mostrar los productos del carrito si este se encuentra lleno y de lo contrario mostrar un mensaje que diga que este se encuentra vacío. 
